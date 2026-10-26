@@ -654,7 +654,7 @@ Thank you to everyone who helped bring buddies back to life.
 
 <sub>Automatically generated via <a href="https://contrib.rocks">contrib.rocks</a></sub>
 
-Special thanks to [@gupta3681](https://github.com/gupta3681), [@kevinwei00](https://github.com/kevinwei00), [@whaterFalls](https://github.com/whaterFalls), [@longestpath](https://github.com/longestpath), and [@DKev](https://github.com/DKev) for their contributions.
+Special thanks to [@gryphon-edm](https://github.com/gryphon-edm), [@0x-ricker](https://github.com/0x-ricker), [@motionbynick](https://github.com/motionbynick), and [@TheNoeticOrder](https://github.com/TheNoeticOrder)) for their contributions.
 
 ## 🙏 ATTRIBUTION
 
@@ -685,11 +685,8 @@ Learn more about the mission to rescue Buddy and the engineering behind the scen
 
 ## 👤 Author
 
-**Steven Jieli Wu**
-
-- [LinkedIn](https://www.linkedin.com/in/jieliwu/)
-- [Portfolio](https://jwu-studio-portfolio.vercel.app/)
-- GitHub: [@terpjwu1](https://github.com/terpjwu1) and [@OleLehmann](https://github.com/OleLehmann)
+**Zihan Ding**
+- GitHub: [@wagmi97](https://github.com/wagmi97) and [@OleLehmann](https://github.com/OleLehmann)
 
 ## 📄 License
 
