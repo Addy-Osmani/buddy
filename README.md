@@ -654,7 +654,7 @@ Thank you to everyone who helped bring buddies back to life.
 
 <sub>Automatically generated via <a href="https://contrib.rocks">contrib.rocks</a></sub>
 
-Special thanks to [@gryphon-edm](https://github.com/gryphon-edm), [@0x-ricker](https://github.com/0x-ricker), [@motionbynick](https://github.com/motionbynick), and [@TheNoeticOrder](https://github.com/TheNoeticOrder)) for their contributions.
+Special thanks to [@gryphon-edm](https://github.com/gryphon-edm), [@0x-ricker](https://github.com/0x-ricker), [@motionbynick](https://github.com/motionbynick), and [@TheNoeticOrder](https://github.com/TheNoeticOrder) for their contributions.
 
 ## 🙏 ATTRIBUTION
 
